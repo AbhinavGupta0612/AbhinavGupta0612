@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 - 💻 **Languages:** C, C++  
-- 🌐 **Web Technologies:** HTML, CSS, JavaScript, React (Basics)  
+- 🌐 **Web Technologies:** HTML, CSS, JavaScript, React 
 - 🛠️ **Tools:** VS Code, Git, GitHub  
 - 🧠 **Core Subjects:** DSA, OOPS, DBMS, Computer Networks  
 
