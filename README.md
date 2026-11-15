@@ -24,7 +24,7 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-<a href="www.linkedin.com/in/abhinavgupta1206/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://linkedin.com/in/abhinavgupta1206/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:0627abhinavgupta@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
