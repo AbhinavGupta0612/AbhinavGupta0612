@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Gupta</h1>
-<h3 align="center">🚀 Front-End Developer | B.Tech CSE Student</h3>
+<h3 align="center">🚀 Full Stack Developer | B.Tech CSE Graduate</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
