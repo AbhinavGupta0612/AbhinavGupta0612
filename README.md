@@ -15,18 +15,17 @@
 
 ## 🛠️ Tech Stack
 
-- 💻 **Languages:** C, C++  
-- 🌐 **Web Technologies:** HTML, CSS, JavaScript, React 
-- 🛠️ **Tools:** VS Code, Git, GitHub  
+- 💻 **Languages:** Java, C 
+- 🌐 **Web Technologies:** HTML, CSS, JavaScript, React, Spring boot 
+- 🛠️ **Tools:** VS Code, Git, GitHub, IntelliJ Idea 
 - 🧠 **Core Subjects:** DSA, OOPS, DBMS, Computer Networks  
 
 ---
 
 ## 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:202abhinavgupta@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://github.com/AbhinavGupta0612"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="www.linkedin.com/in/abhinavgupta1206/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:0627abhinavgupta@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
